@@ -1,6 +1,6 @@
-# Üdvözetem! 🙋‍♂️
+# Üdvözletem! 🙋‍♂️
 
-- Nem fogsz sok dolgot  találni itt ugyanis a legtöbb érdekesség privát.
+- Nem fogsz itt sok dolgot találni ugyanis a legtöbb érdekesség privát.
 - Ha látsz valamit akkor az biztos vagy piszok régi vagy valami koppintás vagy kivételes esetekben egy csodálatos dolog
 
-[**Weboldalam**](https://hvcsano.hu "A világ legjobb weboldala.")
+## Amennyiben finomságra vágysz tekintsd meg az Ampix-ot: https://github.com/Ampix
