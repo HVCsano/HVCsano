@@ -1,25 +1,44 @@
-<div class="flex h-screen bg-slate-900">
-	<div class="m-auto text-center">
-		<h1 class="mb-0 animate-pulse text-5xl font-thin tracking-widest text-[#76FF7A]">HVCsano</h1>
-		<h2 class="animate-pulse text-white">Csanó</h2>
-		<div class="mt-5 flex gap-4">
-			<a
-				class="inline-flex items-center gap-2 text-white"
-				href="https://github.com/HVCsano"
-				target="_blank"><img class="h-6 w-6" src="/github.svg" alt="" />Github</a
+<script>
+	import Github from '$lib/icons/github.svelte';
+	import Twitch from '$lib/icons/twitch.svelte';
+	import Youtube from '$lib/icons/youtube.svelte';
+	import { onMount } from 'svelte';
+	import { fade } from 'svelte/transition';
+	let show = false;
+	onMount(() => {
+		setTimeout(() => {
+			show = true;
+		}, 50);
+	});
+</script>
+
+<div class="pointer-events-none bg-black selection:opacity-0">
+	<img src="/bg.jpg" class="h-screen w-screen opacity-50" alt="" />
+</div>
+{#if show}
+	<div
+		transition:fade={{ duration: 300 }}
+		class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 content-center items-center justify-center text-center selection:opacity-0"
+	>
+		<h1
+			class="ppointe pointer-events-none mb-0 text-5xl font-thin tracking-widest text-[#76FF7A] md:text-9xl"
+		>
+			HVCsano
+		</h1>
+		<h2 class=" pointer-events-none text-xl text-white md:text-3xl">- Csanó -</h2>
+		<div class="mt-5 flex items-center justify-center gap-2 sm:gap-4 md:gap-8">
+			<a href="https://github.com/HVCsano" target="_blank"
+				><Github stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all"
+				></Github></a
 			>
-			<a
-				class="inline-flex items-center gap-2 text-white"
-				href="https://youtube.com/@HVCsano"
-				target="_blank"><img class="h-6 w-6 fill-yellow-400" src="/youtube.svg" alt="" />Youtube</a
+			<a href="https://youtube.com/@HVCsano" target="_blank"
+				><Youtube stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all"
+				></Youtube></a
 			>
-			<a
-				href="https://twitch.tv/HVCsano"
-				class="inline-flex items-center gap-2 text-white"
-				target="_blank"
-			>
-				<img class="h-6 w-6" src="/twitch.svg" alt="" />Twitch
+			<a href="https://twitch.tv/HVCsano" target="_blank">
+				<Twitch stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all"
+				></Twitch>
 			</a>
 		</div>
 	</div>
-</div>
+{/if}

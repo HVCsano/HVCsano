@@ -3,8 +3,8 @@
 	let { children } = $props();
 </script>
 
-<head>
+<svelte:head>
 	<title>HVCsano</title>
-</head>
+</svelte:head>
 
 {@render children()}
