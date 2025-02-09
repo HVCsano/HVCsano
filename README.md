@@ -10,7 +10,7 @@
 
 # Welcome! 🙋‍♂️
 
-- I'm Csanó, a hungarian high school student, who loves programming website, and backends for them.
+- I'm Csanó, a hungarian high school student, who loves programming websites, and backends for them.
 - Most spicy stuff, I develop is in [Ampix](https://github.com/Ampix), or in [SAMT](https://github.com/SAMT-Dev) organizations.
   
 ![Skills](https://skillicons.dev/icons?i=windows,linux,vscode,docker,tauri,svelte,vue,nuxt,tailwind,js,ts,vite,nodejs,pnpm,bun,rust,mysql,arduino,github,discord,discordjs)
