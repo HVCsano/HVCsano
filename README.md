@@ -2,7 +2,7 @@
 
 # Üdvözletem! 🙋‍♂️
 
-- Csanó, vagyok gimnáziui tanuló, aki szabadidejében programozgat mindenfélét.
+- Csanó, vagyok gimnáziui tanuló, aki szabadidejében főként webfejlesztéssel foglalkozik.
 - Annyira visszanézni a régi nyilvános repo-jaimat felesleges, mert csak html van bennük.
 - Legtöbbször, ha nyilvános repo-ban fejlesztek az vagy az [Ampix](https://github.com/Ampix), vagy a [SAMT](https://github.com/SAMT-Dev) organizationben van.
 
@@ -10,7 +10,7 @@
 
 # Welcome! 🙋‍♂️
 
-- I'm Csanó, a hungarian high school student, who loves programming stuff in their free time.
+- I'm Csanó, a hungarian high school student, who loves programming website, and backends for them.
 - Most spicy stuff, I develop is in [Ampix](https://github.com/Ampix), or in [SAMT](https://github.com/SAMT-Dev) organizations.
   
 ![Skills](https://skillicons.dev/icons?i=windows,linux,vscode,docker,tauri,svelte,vue,nuxt,tailwind,js,ts,vite,nodejs,pnpm,bun,rust,mysql,arduino,github,discord,discordjs)
