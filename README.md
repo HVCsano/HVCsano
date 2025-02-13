@@ -2,7 +2,7 @@
 
 # Üdvözletem! 🙋‍♂️
 
-- Csanó, vagyok gimnáziui tanuló, aki szabadidejében főként webfejlesztéssel foglalkozik.
+- Csanó, vagyok gimnáziumi tanuló, aki szabadidejében főként webfejlesztéssel foglalkozik.
 - Annyira visszanézni a régi nyilvános repo-jaimat felesleges, mert csak html van bennük.
 - Legtöbbször, ha nyilvános repo-ban fejlesztek az vagy az [Ampix](https://github.com/Ampix), vagy a [SAMT](https://github.com/SAMT-Dev) organizationben van.
 
