@@ -18,14 +18,14 @@
 {#if show}
 	<div
 		transition:fade={{ duration: 300 }}
-		class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 content-center items-center justify-center text-center selection:opacity-0"
+		class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 content-center items-center justify-center text-center selection:opacity-0"
 	>
 		<h1
 			class="ppointe pointer-events-none mb-0 text-5xl font-thin tracking-widest text-[#76FF7A] md:text-9xl"
 		>
 			HVCsano
 		</h1>
-		<h2 class=" pointer-events-none text-xl text-white md:text-3xl">- Csanó -</h2>
+		<h2 class="pointer-events-none text-xl text-white md:text-3xl">- Csanó -</h2>
 		<div class="mt-5 flex items-center justify-center gap-2 sm:gap-4 md:gap-8">
 			<a href="https://github.com/HVCsano" target="_blank"
 				><Github stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all"
@@ -38,6 +38,9 @@
 			<a href="https://twitch.tv/HVCsano" target="_blank">
 				<Twitch stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all"
 				></Twitch>
+			</a>
+			<a href="https://v4.csano.hu" target="_blank">
+				<img src="/v42.png" alt="" class="w-[98px]" />
 			</a>
 		</div>
 	</div>
