@@ -13,8 +13,8 @@
 	});
 </script>
 
-<div class="pointer-events-none bg-black selection:opacity-0">
-	<img src="/bg.jpg" class="h-screen w-screen opacity-50" alt="" />
+<div class="pointer-events-none -z-40 bg-black selection:opacity-0">
+	<img src="/bg.jpg" class="-z-40 h-screen w-screen opacity-50" alt="" />
 </div>
 {#if show}
 	<div
@@ -43,7 +43,7 @@
 			<a href="https://twitch.tv/HVCsano" target="_blank">
 				<Twitch stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all" />
 			</a>
-			<a href="https://forum.see-game.com/members/csano.10990/" target="_blank">
+			<a href="https://v4.csano.hu" target="_blank">
 				<V4 stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all" />
 			</a>
 		</div>
