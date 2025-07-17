@@ -43,7 +43,7 @@
 			<a href="https://twitch.tv/HVCsano" target="_blank">
 				<Twitch stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all" />
 			</a>
-			<a href="https://v4.csano.hu" target="_blank">
+			<a href="https://forum.see-game.com/members/csano.10990/" target="_blank">
 				<V4 stilus="group" pstilus="group-hover:fill-[#76FF7A] duration-300 transition-all" />
 			</a>
 		</div>
