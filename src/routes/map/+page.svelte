@@ -44,6 +44,6 @@
 	<h2>Oldalt készítette: HVCsano, a képek a SeeMTA v4 modjából kiszedve.</h2>
 </form>
 
-<div id="map"></div>
+<div id="map" class="pointer-events-none select-none"></div>
 
-<span class="fixed top-0 left-0 -z-20 h-[100%] w-[100%] bg-gray-700"></span>
+<span class="fixed top-0 left-0 -z-20 h-full w-full bg-gray-700"></span>
