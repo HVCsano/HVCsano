@@ -26,7 +26,7 @@
 		>
 			HVCsano
 		</h1>
-		<h2 class="pointer-events-none text-xl text-white md:text-3xl">- Csanó (Cha-no) -</h2>
+		<h2 class="pointer-events-none text-xl text-white md:text-3xl">- Csanó (t͡ʃɒnoː) -</h2>
 		<div class="mt-5 flex items-center justify-center gap-2 sm:gap-4 md:gap-8">
 			<a href="https://github.com/HVCsano" target="_blank"
 				><Github
